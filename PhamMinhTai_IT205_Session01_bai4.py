@@ -16,5 +16,5 @@ print("=" * 60)
 print(f"Bệnh nhân: {ho_ten} - Mã BA: {ma_benh_an} - Chuyển tới: {khoa_phong}")
 
 print("\n" + "-" * 60)
-print("✅ XÁC NHẬN: Đã tiếp nhận bệnh nhân thành công!")
+print(" XÁC NHẬN: Đã tiếp nhận bệnh nhân thành công!")
 print("-" * 60)
